@@ -3,5 +3,59 @@ Component used to design the structure of websites are called HTML tags
 .html/.htm
 
 ! - Emmet - boiler plate code
+- By default the server search for index.html file
+
+____HTML tags_____
+A container for some content
+<p> - opening tags
+</p> - closing tags
+
+____Comments_____
+HTML is not case sensitive
+
+____Portfolio_____
+index.html
+
+___HTML Attributes____
+"lang" is a Attributes
+
+___Heading tags___
+h1,h2,h3,h4,h5,h6 - based on size
+- should not be used for changing size of the text 
+
+__Paragraph TAG__
+
+__Anchor Tag__
+To add links to the page
+<a>
+
+__Image Tag__
+<img src = "LINK to img" alt = "Random Img">
+can use relative URL or absolute URL
+
+<br> - empty tag for next line
+
+___ Bold Italic Underline ____
+<b> BOLD</b>
+<i> </i>
+<u> </u>
+
+__Big and Small Tag__
+<big> </big>
+<small> </small>
+
+___hr Tag__
+used to diplay a horizontal ruler , used to seperate content
+
+__Subcript or Superscript___
+<sub> </sub>
+<sup> </sup>
+
+__pre Tag__
+To display space and nextline 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Page Layouts Techniques
+
 
 
