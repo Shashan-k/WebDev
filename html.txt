@@ -1,0 +1,7 @@
+HTML - Hyper Text Markup Language
+Component used to design the structure of websites are called HTML tags
+.html/.htm
+
+! - Emmet - boiler plate code
+
+
